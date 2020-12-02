@@ -1,0 +1,36 @@
+{% extends "template.html" %}
+{% block conteudo %}
+    <table class="table table-striped table-responsive table-bordered">
+        <thead>
+            <tr>
+                <th>Matrícula</th>
+                <th>CR</th>
+            </tr>
+        </thead>
+        <tbody>
+            <h3>CR Dos Alunos</h3>
+        {% for aluno in alunos %}
+                        <tr>
+                            <td>{{ aluno[0] }}</td>
+                            <td>{{ aluno[1] }}</td>
+                        </tr>
+        {% endfor %}
+        </tbody>
+    </table> <table class="table table-striped table-responsive table-bordered">
+        <thead>
+            <tr>
+                <th>Curso</th>
+                <th>Média</th>
+            </tr>
+        </thead>
+        <tbody>
+            <h3>Média Dos Cursos</h3>
+        {% for curso in cursos %}
+                        <tr>
+                            <td>{{curso[0] }}</td>
+                            <td>{{ curso[1]}}</td>
+                        </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+{% endblock %}
