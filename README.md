@@ -13,8 +13,7 @@ Para instalar use:
   $pip install pandas
   $pip install flask
 ```
-<ul>
-<li>Para executar o programa no terminal utilize o arquivo [main.py](https://github.com/juliocarvalhos/desafio_sti/blob/main/main.py).  </li> 
-<li>Para executar a GUI utilize o arquivo [GUI.py](https://github.com/juliocarvalhos/desafio_sti/blob/main/GUI.py).  </li>
-<li>A interface do usuário pode ser encontrada [aqui](http://jcsouza.pythonanywhere.com/).  </li>
-</ul>
+
+Para executar o programa no terminal utilize o arquivo [main.py](https://github.com/juliocarvalhos/desafio_sti/blob/main/main.py).  </p>
+Para executar a GUI utilize o arquivo [GUI.py](https://github.com/juliocarvalhos/desafio_sti/blob/main/GUI.py).  </p>
+A interface do usuário pode ser encontrada [aqui](http://jcsouza.pythonanywhere.com/).  </p>
