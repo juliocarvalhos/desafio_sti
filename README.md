@@ -14,6 +14,6 @@ Para instalar use:
   $pip install flask
 ```
 
-*Para executar o programa no terminal utilize o arquivo [main.py](https://github.com/juliocarvalhos/desafio_sti/blob/main/main.py).
-*Para executar a GUI utilize o arquivo [GUI.py](https://github.com/juliocarvalhos/desafio_sti/blob/main/GUI.py).
-*A interface do usuário pode ser encontrada [aqui](http://jcsouza.pythonanywhere.com/)
+*Para executar o programa no terminal utilize o arquivo [main.py](https://github.com/juliocarvalhos/desafio_sti/blob/main/main.py).  
+*Para executar a GUI utilize o arquivo [GUI.py](https://github.com/juliocarvalhos/desafio_sti/blob/main/GUI.py).  
+*A interface do usuário pode ser encontrada [aqui](http://jcsouza.pythonanywhere.com/).  
